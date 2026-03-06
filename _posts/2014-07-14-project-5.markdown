@@ -4,5 +4,5 @@ modal-id: 5
 date: 2014-07-14
 img: safe.png
 alt: image-alt
-description: Ban Tổ chức Cuộc thi ảnh Xanh biến tấu năm 2022 "Đồng hồ cát".
+description: Thành viên gen 18 Ban Truyền thông - Nội dung Câu lạc bộ Guitar Trường Đại học Ngoại thương - FGC.
 ---
