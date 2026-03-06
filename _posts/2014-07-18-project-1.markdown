@@ -4,5 +4,5 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-description: Học sinh khoá 20 khối THCS Trường THCS và THPT Nguyễn Tất Thành. Học sinh khoá 24 khối THPT Trường THCS và THPT Nguyễn Tất Thành.
+description: Học sinh khoá 20 khối THCS - khoá 24 khối THPT Trường THCS và THPT Nguyễn Tất Thành.
 ---
