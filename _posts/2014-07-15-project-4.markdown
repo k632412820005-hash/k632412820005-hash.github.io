@@ -4,5 +4,5 @@ modal-id: 4
 date: 2014-07-15
 img: game.png
 alt: image-alt
-description: Thành viên gen 17 Ban Truyền thông Câu lạc bộ Kế toán Kiểm toán viên tương lai Trường Đại học Ngoại thương - CFAA FTU.
+description: Thành viên gen 17 Ban Truyền thông - Phó Ban Truyền thông gen 18 Câu lạc bộ Kế toán Kiểm toán viên tương lai Trường Đại học Ngoại thương - CFAA FTU.
 ---
