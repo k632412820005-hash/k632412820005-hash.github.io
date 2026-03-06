@@ -1,9 +1,9 @@
 # Site settings
-title: TIN313 - MY PORTFOLIO
+title: NGUYEN HA ANH
 email: anhnguyenha06@gmail.com
 url: "https://k632412820005-hash.github.io"
-description: "Sinh viên khoá 63 - Trường Đại học Ngoại thương"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+description: "Portfolio học phần Cơ sở dữ liệu - Nguyễn Hà Anh - Sinh viên Khoá 63 chuyên ngành Kế toán - Kiểm toán Trường Đại học Ngoại thương FTU Hà Nội"
+skills: "Sinh viên khoá 63 - Trường Đại học Ngoại thương"
 meta_author: Nguyễn Hà Anh
 
 # Google webmaster tools
@@ -47,8 +47,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Ha Noi
-  - line: Viet Nam
+  - line: Ha Noi, Viet Nam
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
