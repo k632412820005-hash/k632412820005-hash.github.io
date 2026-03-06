@@ -4,5 +4,5 @@ modal-id: 6
 date: 2014-07-15
 img: submarine.png
 alt: image-alt
-description: Thành viên gen 18 Ban Truyền thông - Nội dung Câu lạc bộ Guitar Trường Đại học Ngoại thương - FGC.
+description: Ban Tổ chức Cuộc thi ảnh Xanh biến tấu năm 2022 "Đồng hồ cát".
 ---
